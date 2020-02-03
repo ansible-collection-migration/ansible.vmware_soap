@@ -1,0 +1,18 @@
+namespace: ansible
+name: vmware_soap
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies:
+  ansible.netcommon: '>=1.0'
+  ansible.unix: '>=1.0'
+  ansible.vmware_rest: '>=1.0'
+  ansible.misc: '>=1.0'
+repository: git@github.com:ansible-collection-migration/ansible.vmware_soap.git
+documentation: https://github.com/ansible-collection-migration/ansible.vmware_soap/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/ansible.vmware_soap
+issues: https://github.com/ansible-collection-migration/ansible.vmware_soap/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
